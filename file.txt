@@ -1,5 +1,10 @@
 kushal
 abc
 
+<<<<<<< HEAD
 this file
 document
+=======
+this is file
+document
+>>>>>>> 2455d51 (file)
